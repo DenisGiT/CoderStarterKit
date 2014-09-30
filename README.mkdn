@@ -1,0 +1,25 @@
+CoderStarterKit is a Starter Kit to help any web coder out there.
+
+Requirement
+-------------------------
+* Node.js
+* SASS 3.3
+
+Quick start
+-------------------------
+* Clone this project `git clone git://github.com/denisgit/CoderStarterKit.git`
+* Or you can download the zip file [here](https://github.com/tokokoo/pondasee/zipball/master)
+
+
+Project information
+-------------------------
+CoderStarterKit is crafted and developed by [nedeco](http://nede.co), feel free to send me some feedback!
+
+* Twitter: [@nedeco](http://twitter.com/nedeco)
+* Website: [nedeco](http://nede.co)
+
+
+License
+-------------------------
+
+[The Unlicense](http://unlicense.org/)
