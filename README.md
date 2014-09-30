@@ -1,4 +1,4 @@
 CoderStarterKit
 ===============
 
-Web Coder Starter Kit
+A Web Coder Starter Kit.

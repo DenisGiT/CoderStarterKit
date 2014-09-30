@@ -1,0 +1,64 @@
+/*
+ * Base
+ * 
+ * */
+
+* {
+  -webkit-font-smoothing:antialiased;
+  font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  //@include box-sizing(border-box);
+}
+
+body {
+  font:300 13px/1.6 'Helvetica Neue', Helvetica, Arial;
+  background:#fff;
+  color:#444;
+}
+
+::selection{
+  background:#333;
+  color:#fff;
+  text-shadow:none;
+}
+::-moz-selection{
+  background:#333;
+  color:#fff;
+  text-shadow:none;
+}
+::-webkit-selection{
+  background:#333;
+  color:#fff;
+  text-shadow:none;
+}
+
+.list-reset {
+  list-style: none;
+  padding-left: 0;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  max-width: 100%;
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+}
+
+th,
+td {
+  padding: .25em 1rem;
+  line-height: inherit;
+}
+
+th {
+  vertical-align: bottom;
+}
+
+td {
+  vertical-align: top;
+}

@@ -1,0 +1,66 @@
+input[type=text],
+input[type=datetime],
+input[type=datetime-local],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=time],
+input[type=url],
+input[type=week] {
+  line-height: 2.25em;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  height: 2.25em;
+  -webkit-appearance: none;
+  margin-top: 0;
+  margin-bottom: .5rem;
+  padding: .25em 1rem;
+}
+
+select {
+  line-height: 2em;
+  display: block;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  width: 100%;
+  height: 2.25em;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+
+
+textarea {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+button,
+input[type=button],
+input[type=submit],
+input[type=reset],
+.button {
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  line-height: 2.25em;
+  margin: 0;
+  padding: 0 1rem;
+  height: auto;
+  width: auto;
+  min-height: 2.25em;
+  border: 0;
+  -webkit-appearance: none;
+}
+
+.button:hover {
+  text-decoration: none;
+}

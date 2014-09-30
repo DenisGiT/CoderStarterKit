@@ -1,0 +1,8 @@
+.header {
+
+}
+.logo {
+    @include absolute-center();
+    height: 32px;
+    width: 273px;
+}
