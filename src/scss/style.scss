@@ -21,12 +21,12 @@
 =============================================================*/
 
 // Config modules
-@import '_vars.scss';
-@import '_mixins.scss';
-@import '_helpers.scss';
+@import 'general/_vars.scss';
+@import 'general/_mixins.scss';
+@import 'general/_helpers.scss';
 
 // Enhancement modules
-//@import 'modules/bourbon/_bourbon.scss';
+@import "general/_compass";
 
 //----------------------------------*\
 // BASE
